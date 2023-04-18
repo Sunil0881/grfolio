@@ -20,6 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 <li>The hackers can show proof of work</li>
 <li>It is a decentralized medium </li>
 <li> The proof work is created for also the organisers
+ <li> The prrof of work NFT is a Cross-Chain NFT
 
 
 <h1>Stacks we used</h1>
